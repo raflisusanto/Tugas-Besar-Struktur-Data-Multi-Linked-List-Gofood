@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1641259763 source:c:\users\boyve\onedrive\documents\c++ project\tubes\tubes struktur data\main.cpp
+	"mll_gofood.h"
+
+1641260453 c:\users\boyve\onedrive\documents\c++ project\tubes\tubes struktur data\mll_gofood.h
+	<iostream>
+	<string>
+
+1641276522 source:c:\users\boyve\onedrive\documents\c++ project\tubes\tubes struktur data\mll_gofood.cpp
+	"mll_gofood.h"
+
